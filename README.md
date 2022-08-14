@@ -1,6 +1,6 @@
 ### Welcome fellow nosey person🔭
 
-Yo ma names Joe, I code and play bass sometimes. I also make Minecraft mods because why not, it's fun.
+Yo ma names Jo (Josephine), I code and play bass sometimes. I also make Minecraft mods because why not, it's fun.
   
 - Brute forced my way into programming through the power of _✨practice✨_.
 - I have lots of ideas for things... Most of which don't get done
