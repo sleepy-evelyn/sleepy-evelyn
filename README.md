@@ -4,5 +4,5 @@
 - Blahaj is love, Blahaj is life. State issued Blahaj for all that requite.
 
 ### Private / University Projects
-Most of my University Projects and some Hobby Projects I don't keep on Github. I keep these projects on [Proton Drive](https://drive.proton.me/urls/SD7Q2P08KM#hRc145CF49Sm) instead. At some point I might create a portfolio.
+Most of my University Projects and some Hobby Projects I don't keep on Github. If you have recieved a CV from me a link to my projects should be included in that.
 
