@@ -1,6 +1,6 @@
-## Welcome fellow nosey person 🔭
+## Welcome nosey person 🔭
 
-- I code and play bass sometimes. I also make Minecraft mods because, why not, it's fun :3.
+- I make Java Minecraft Mods and play Bass sometimes. 
 - Blahaj is love, Blahaj is life. State issued Blahaj for all that requite.
 
 ### Private / University Projects
